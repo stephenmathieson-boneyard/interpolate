@@ -8,9 +8,6 @@
   "scripts": [
     "index.js"
   ],
-  "dependencies": {
-    "component/escape-regexp": "*"
-  },
   "development": {
     "component/assert": "*"
   }

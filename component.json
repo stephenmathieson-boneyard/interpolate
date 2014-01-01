@@ -1,0 +1,17 @@
+{
+  "name": "interpolate",
+  "repo": "stephenmathieson/interpolate",
+  "description": "Simple interpolation",
+  "version": "0.0.0",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ],
+  "dependencies": {
+    "component/escape-regexp": "*"
+  },
+  "development": {
+    "component/assert": "*"
+  }
+}

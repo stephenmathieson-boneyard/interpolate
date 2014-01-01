@@ -1,0 +1,25 @@
+{
+  "name": "interpolate",
+  "version": "0.0.0",
+  "description": "Simple interpolation",
+  "keywords": [
+    "interpolate",
+    "string"
+  ],
+  "author": "Stephen Mathieson <me@stephenmathieson.com>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stephenmathieson/interpolate.git"
+  },
+  "devDependencies": {
+    "better-assert": "~1.0.0",
+    "mocha": "~1.16.2",
+    "component": "~0.18",
+    "component-test2": "~0.1.2"
+  },
+  "main": "index",
+  "scripts": {
+    "test": "BROWSER=phantom make all"
+  },
+  "license": "MIT"
+}

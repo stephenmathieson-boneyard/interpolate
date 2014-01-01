@@ -1,4 +1,7 @@
-support
 test
-examples
-*.sock
+component.json
+example.js
+Makefile
+History.md
+components
+build
